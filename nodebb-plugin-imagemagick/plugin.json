@@ -1,0 +1,9 @@
+{
+	"id": "nodebb-plugin-imagemagick",
+	"url": "https://github.com/NodeBB/nodebb-plugin-imagemagick",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:image.resize", "method": "resize" },
+		{ "hook": "filter:image.normalise", "method": "normalise" }
+	]
+}

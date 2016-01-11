@@ -1,0 +1,37 @@
+{
+  "name": "nodebb-plugin-mentions",
+  "version": "1.0.2",
+  "description": "NodeBB Plugin that allows users to mention other users by prepending an '@' sign to their username",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianlam/nodebb-plugin-mentions.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "username",
+    "mentions"
+  ],
+  "author": {
+    "name": "Julian Lam",
+    "email": "julian@designcreateplay.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/julianlam/nodebb-plugin-mentions/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^0.7.0 || ^0.8.0"
+  },
+  "readme": "# Username/Group Mentions\r\n\r\nThis NodeBB plugin allows posters to reference (or *mention*) other users or groups on a NodeBB by simply\r\nprecluding the `@` symbol before a username.\r\n\r\nA link is automatically added to the post.\r\n\r\n## Installation\r\n\r\nThis plugin is bundled with every NodeBB install. If not, you can install it via the Plugins page of the ACP.\r\n\r\nAlternatively,\r\n\r\n    npm install nodebb-plugin-mentions",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/julianlam/nodebb-plugin-mentions#readme",
+  "_id": "nodebb-plugin-mentions@1.0.2",
+  "_shasum": "91b38f67ea2024b45b9d497e0573e7c77d17e5df",
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-mentions/-/nodebb-plugin-mentions-1.0.2.tgz",
+  "_from": "https://registry.npmjs.org/nodebb-plugin-mentions/-/nodebb-plugin-mentions-1.0.2.tgz"
+}

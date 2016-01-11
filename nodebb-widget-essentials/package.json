@@ -1,0 +1,38 @@
+{
+  "name": "nodebb-widget-essentials",
+  "version": "2.0.1",
+  "description": "NodeBB Essential Widgets",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychobunny/nodebb-widget-essentials.git"
+  },
+  "keywords": [
+    "nodebb",
+    "widget",
+    "essentials",
+    "markdown",
+    "text"
+  ],
+  "author": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-widget-essentials/issues"
+  },
+  "readme": "# NodeBB Essential Widgets\r\n\r\nSeveral basic widgets bundled together in one package including 'HTML', 'Markdown', 'Active Users', 'Moderators', 'Forum Stats', 'Recent Topics', 'Categories', 'Popular Tags' and 'Recent Posts' widgets.\r\n\r\n## Installation\r\n\r\n    npm install nodebb-widget-essentials\r\n",
+  "readmeFilename": "README.md",
+  "_id": "nodebb-widget-essentials@2.0.1",
+  "_from": "https://registry.npmjs.org/nodebb-widget-essentials/-/nodebb-widget-essentials-2.0.1.tgz",
+  "nbbpm": {
+    "compatibility": "^0.7.0 || ^0.8.0"
+  },
+  "homepage": "https://github.com/psychobunny/nodebb-widget-essentials#readme",
+  "_shasum": "b3a6e3fd59884b5e7bf067cd861787318067eaf3",
+  "_resolved": "https://registry.npmjs.org/nodebb-widget-essentials/-/nodebb-widget-essentials-2.0.1.tgz"
+}

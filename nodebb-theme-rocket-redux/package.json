@@ -1,0 +1,53 @@
+{
+  "name": "nodebb-theme-rocket-redux",
+  "version": "1.0.7",
+  "description": "A theme with a card-based design for NodeBB forums. Mobile enabled.",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianlam/nodebb-theme-rocket-redux.git"
+  },
+  "keywords": [
+    "nodebb",
+    "theme",
+    "themes",
+    "card",
+    "mobile",
+    "forum"
+  ],
+  "author": {
+    "name": "julianlam",
+    "email": "julian@nodebb.org"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/julianlam/nodebb-theme-rocket-redux/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^0.7.0 || ^0.8.0"
+  },
+  "gitHead": "21e25d3948e34015e4fff2d45fc90910cba8f66a",
+  "homepage": "https://github.com/julianlam/nodebb-theme-rocket-redux#readme",
+  "_id": "nodebb-theme-rocket-redux@1.0.7",
+  "scripts": {},
+  "_shasum": "30804244e7b5eef923d9f463214717cc0069a07e",
+  "_from": "nodebb-theme-rocket-redux@1.0.7",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "julianlam",
+    "email": "julian@designcreateplay.com"
+  },
+  "maintainers": [
+    {
+      "name": "julianlam",
+      "email": "julian@designcreateplay.com"
+    }
+  ],
+  "dist": {
+    "shasum": "30804244e7b5eef923d9f463214717cc0069a07e",
+    "tarball": "http://registry.npmjs.org/nodebb-theme-rocket-redux/-/nodebb-theme-rocket-redux-1.0.7.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-rocket-redux/-/nodebb-theme-rocket-redux-1.0.7.tgz"
+}

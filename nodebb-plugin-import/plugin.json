@@ -1,0 +1,18 @@
+{
+	"id": "nodebb-plugin-import",
+	"name": "Import",
+	"description": "Import your forum data to nodebb",
+	"url": "https://github.com/akhoury/nodebb-plugin-import",
+	"library": "./server/index.js",
+	"hooks": [
+		{"hook": "filter:admin.header.build", "method": "hooks.filters.menu"},
+		{"hook": "static:app.load", "method": "hooks.statics.load"}
+	],
+    "faIcon": "fa-magic",
+    "staticDirs": {
+        "js": "public/js",
+        "css": "public/css",
+        "tmp": "public/tmp"
+    },
+    "templates": "./public/templates"
+}

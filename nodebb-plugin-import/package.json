@@ -1,0 +1,110 @@
+{
+  "name": "nodebb-plugin-import",
+  "version": "0.3.14",
+  "description": "Import your forum data to nodebb",
+  "main": "./server/importer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akhoury/nodebb-plugin-import"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "migrate",
+    "convert",
+    "import",
+    "ubb",
+    "phpbb",
+    "xenforo",
+    "vb",
+    "vbulletin",
+    "vanilla",
+    "discourse",
+    "wordpress",
+    "bbpress",
+    "jforum",
+    "network54",
+    "ipb",
+    "ipboard",
+    "smf"
+  ],
+  "author": {
+    "name": "akhoury",
+    "email": "bentael@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhoury/nodebb-plugin-import/issues"
+  },
+  "dependencies": {
+    "fs-extra": "~0.11.0",
+    "async": "~0.9.0",
+    "node.extend": "~1.0.10",
+    "eventemitter2": "~0.4.14",
+    "npm": "^1.4.6",
+    "underscore": "~1.5.2",
+    "jsdom-nogyp": "~0.8.3",
+    "html-md-optional_window": "*",
+    "bbcode-to-markdown": "*",
+    "html-entities": "1.0.10",
+    "nodebb-plugin-import-discourse": "*",
+    "nodebb-plugin-import-vanilla": "*",
+    "nodebb-plugin-import-xenforo": "*",
+    "nodebb-plugin-import-wefrag": "*",
+    "nodebb-plugin-import-vbulletin": "*",
+    "nodebb-plugin-import-phpbb": "*",
+    "nodebb-plugin-import-ipboard": "*",
+    "nodebb-plugin-import-mybb": "*",
+    "nodebb-plugin-import-ubb": "*",
+    "nodebb-plugin-import-smf": "*",
+    "nodebb-plugin-import-wordpress": "*",
+    "nodebb-plugin-import-jforum": "*",
+    "nodebb-plugin-import-esotalk": "*",
+    "nodebb-plugin-import-esotalk2": "*"
+  },
+  "optionalDependencies": {
+    "nodebb-plugin-import-discourse": "*",
+    "nodebb-plugin-import-vanilla": "*",
+    "nodebb-plugin-import-xenforo": "*",
+    "nodebb-plugin-import-wefrag": "*",
+    "nodebb-plugin-import-vbulletin": "*",
+    "nodebb-plugin-import-phpbb": "*",
+    "nodebb-plugin-import-ipboard": "*",
+    "nodebb-plugin-import-mybb": "*",
+    "nodebb-plugin-import-ubb": "*",
+    "nodebb-plugin-import-smf": "*",
+    "nodebb-plugin-import-wordpress": "*",
+    "nodebb-plugin-import-jforum": "*",
+    "nodebb-plugin-import-esotalk": "*",
+    "nodebb-plugin-import-esotalk2": "*"
+  },
+  "nbbpm": {
+    "compatibility": "0.8.2"
+  },
+  "gitHead": "32c1428ed11af29c43bb377b84a72e4a9dc529ee",
+  "homepage": "https://github.com/akhoury/nodebb-plugin-import",
+  "_id": "nodebb-plugin-import@0.3.14",
+  "_shasum": "0498e22f741f4b73ead91aae3a6f5c216eb8d7ca",
+  "_from": "nodebb-plugin-import@0.3.14",
+  "_npmVersion": "2.3.0",
+  "_nodeVersion": "0.10.22",
+  "_npmUser": {
+    "name": "akhoury",
+    "email": "bentael@gmail.com"
+  },
+  "dist": {
+    "shasum": "0498e22f741f4b73ead91aae3a6f5c216eb8d7ca",
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-import/-/nodebb-plugin-import-0.3.14.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "akhoury",
+      "email": "bentael@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-import/-/nodebb-plugin-import-0.3.14.tgz"
+}

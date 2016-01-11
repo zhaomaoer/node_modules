@@ -1,0 +1,59 @@
+{
+  "name": "nodebb-plugin-imagemagick",
+  "version": "1.0.1",
+  "description": "This plugin replaces image parsing functionality built into NodeBB with ImageMagick, running on the host machine.",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julianlam/nodebb-plugin-imagemagick"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin"
+  ],
+  "author": {
+    "name": "Julian Lam",
+    "email": "julian@nodebb.org"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianlam/nodebb-plugin-imagemagick/issues"
+  },
+  "nbbpm": {
+    "compatibility": ">0.7.0"
+  },
+  "dependencies": {
+    "gm": "^1.18.1"
+  },
+  "gitHead": "ae3cb1c88d53ed6f844e574f729f975bb67f9ffb",
+  "homepage": "https://github.com/julianlam/nodebb-plugin-imagemagick",
+  "_id": "nodebb-plugin-imagemagick@1.0.1",
+  "scripts": {},
+  "_shasum": "9aaa49b2263f46d7851a1ef33ef1050ca674cc9e",
+  "_from": "nodebb-plugin-imagemagick@1.0.1",
+  "_npmVersion": "2.0.0",
+  "_npmUser": {
+    "name": "julianlam",
+    "email": "julian@designcreateplay.com"
+  },
+  "maintainers": [
+    {
+      "name": "julianlam",
+      "email": "julian@designcreateplay.com"
+    },
+    {
+      "name": "baris",
+      "email": "barisusakli@gmail.com"
+    },
+    {
+      "name": "psychobunny",
+      "email": "psycho.bunny@hotmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "9aaa49b2263f46d7851a1ef33ef1050ca674cc9e",
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-imagemagick/-/nodebb-plugin-imagemagick-1.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-imagemagick/-/nodebb-plugin-imagemagick-1.0.1.tgz"
+}

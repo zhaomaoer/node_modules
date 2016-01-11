@@ -1,0 +1,13 @@
+{
+	"id": "nodebb-plugin-import-esotalk2",
+	"name": "nodebb-plugin-import-esotalk2",
+	"description": "Exporter for esotalk forum compatible with nodebb-plugin-import",
+	"url": "https://github.com/akhoury/nodebb-plugin-import-esotalk2",
+	"library": "./admin/index.js",
+	"hooks": [
+		{ "hook": "filter:admin.header.build", "method": "admin.menu"},
+		{ "hook": "static:app.load", "method": "admin.load"}
+	],
+	"templates": "./public/templates",
+	"minver": "0.5.0"
+}

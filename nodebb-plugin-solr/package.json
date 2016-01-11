@@ -1,0 +1,55 @@
+{
+  "name": "nodebb-plugin-solr",
+  "version": "2.0.14",
+  "description": "Full-text searching for NodeBB using Apache Solr",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianlam/nodebb-plugin-solr.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "quickstart",
+    "shell"
+  ],
+  "author": {
+    "name": "julianlam",
+    "email": "julian@nodebb.org"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/julianlam/nodebb-plugin-solr/issues"
+  },
+  "dependencies": {
+    "solr-client": "^0.5.0",
+    "lru-cache": "^2.5.0"
+  },
+  "nbbpm": {
+    "compatibility": "^0.7.0 || ^0.8.0 || ^0.9.0"
+  },
+  "gitHead": "a6e08fb246831598f09f7b330705be478b3313fc",
+  "homepage": "https://github.com/julianlam/nodebb-plugin-solr#readme",
+  "_id": "nodebb-plugin-solr@2.0.14",
+  "scripts": {},
+  "_shasum": "5e1e1ebc6ec1271cf4477093a39fb3333f0d3dd8",
+  "_from": "nodebb-plugin-solr@2.0.14",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.1.1",
+  "_npmUser": {
+    "name": "julianlam",
+    "email": "julian@designcreateplay.com"
+  },
+  "maintainers": [
+    {
+      "name": "julianlam",
+      "email": "julian@designcreateplay.com"
+    }
+  ],
+  "dist": {
+    "shasum": "5e1e1ebc6ec1271cf4477093a39fb3333f0d3dd8",
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-solr/-/nodebb-plugin-solr-2.0.14.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-solr/-/nodebb-plugin-solr-2.0.14.tgz"
+}
